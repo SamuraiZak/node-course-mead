@@ -1,5 +1,6 @@
 {
   "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "css.enabledLanguages": ["html"],
   "editor.formatOnType": false, // required
   "editor.formatOnPaste": true, // optional
   "editor.formatOnSave": true, // optional
@@ -9,4 +10,5 @@
   "[javascript]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
   } // set as "true" to run 'prettier' last not first
+  
 }
